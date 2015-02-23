@@ -4,6 +4,10 @@ Changelog
 1.1 (unreleased)
 ----------------
 
+- For the FieldWidget adapters, use a BrowserLayer derived from
+  z3c.form.interfaces.IFormLayer.
+  [thet]
+
 - Integrate plone.app.widgets.
   [vangheem]
 
